@@ -1,5 +1,8 @@
 // Dette er endringsloggen for AppleScriptet som oppretter en ny localhost-server for wordpress raskt
 
+Versjon 1.3
+Oppdatert skripet til å åpne opp Localhost-adresen til serveren i Firefox, klart til konfirurering av wp-config-fila
+
 Versjon 1.2, oppdatert 26.09.2015
 Nå trenger man ikke duplisere servermappa man baserer seg på før man kjører scriptet.
 Du kan kjøre scriptet og velge mappen du baserer deg på, så dupliseres den automatisk.
