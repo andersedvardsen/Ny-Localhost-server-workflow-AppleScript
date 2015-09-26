@@ -1,0 +1,7 @@
+// Dette er endringsloggen for AppleScriptet som oppretter en ny localhost-server for wordpress raskt
+
+Versjon 1.1
+Oppdatert kommentarer i fila
+
+Versjon 1.0
+Første versjon av fila som fungerer fint
